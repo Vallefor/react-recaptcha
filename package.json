@@ -73,5 +73,8 @@
       "json",
       "jsx"
     ]
+  },
+  "dependencies": {
+    "react-prop-types": "^0.4.0"
   }
 }

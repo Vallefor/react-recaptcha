@@ -1,4 +1,5 @@
-import React, { PropTypes, Component } from 'react';
+import React, { Component } from 'react';
+import { PropTypes } from 'react-prop-types';
 
 const propTypes = {
   className: PropTypes.string,
